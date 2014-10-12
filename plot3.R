@@ -1,4 +1,4 @@
-setwd("/Users/hlchia/documents/data/expdata")
+setwd("/Users/hlchia/documents/data/ExData_Plotting1")
 
 ### get data
 data <- read.csv("household_power_consumption.txt", header = T, sep = ';', na.strings = "?")
